@@ -4,7 +4,7 @@ A simple -- but useful -- calculator written in JSX, HTML and CSS, using React f
 
 # Running
 
-Run the source code:
+You can run the source code using the follow command line:
 
 - npm run dev
 
